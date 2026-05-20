@@ -1,0 +1,3 @@
+"*.class"  
+"# Ignore temporary files"  
+"*.log"  
